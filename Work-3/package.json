@@ -1,0 +1,12 @@
+{
+  "name": "Work-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve .",
+    "fetch": "node fetch-data.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
